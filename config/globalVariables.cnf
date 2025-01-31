@@ -33,6 +33,16 @@
         <value name="value">sb</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">test10</value>
+        <value name="value">test</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">test11</value>
+        <value name="value">a</value>
+        <value name="isSecure">false</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
